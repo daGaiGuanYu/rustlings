@@ -4,3 +4,5 @@
 
 + vecs1: macro for vectors
 + vecs2: change element in vectors
+
++ move_semantics2: 借过去，复制一份
