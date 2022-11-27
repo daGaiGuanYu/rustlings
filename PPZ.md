@@ -6,3 +6,6 @@
 + vecs2: change element in vectors
 
 + move_semantics2: 借过去，复制一份
+
++ structs1: unit-like struct
++ structs2: update syntax and template
