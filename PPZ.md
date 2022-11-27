@@ -9,3 +9,6 @@
 
 + structs1: unit-like struct
 + structs2: update syntax and template
+
++ strings2
++ strings4
