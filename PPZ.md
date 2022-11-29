@@ -12,3 +12,5 @@
 
 + strings2
 + strings4
+
++ hashmaps3: Entry
